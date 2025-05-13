@@ -53,28 +53,6 @@ data = {
             "year": 1,
             "last_attendance_time": "2025-05-12 00:54:34"
 
-        },
-    "030302":
-        {
-            "name": "Swati N",
-            "major": "Graphics",
-            "starting_year": 2024,
-            "total_attendance": 7,
-            "standing": "B",
-            "year": 1,
-            "last_attendance_time": "2025-05-12 00:54:34"
-
-        },
-    "061204":
-        {
-            "name": "Tanisha",
-            "major": "Designer",
-            "starting_year": 2024,
-            "total_attendance": 7,
-            "standing": "B",
-            "year": 1,
-            "last_attendance_time": "2025-05-12 00:54:34"
-
         }
 }
 
