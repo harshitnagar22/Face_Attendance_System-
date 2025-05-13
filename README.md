@@ -76,8 +76,8 @@ To set up the Face Recognition Attendance System on your local machine, follow t
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/harshitnagar22/FaceAttendanceSystem.git
-cd FaceAttendanceSystem
+git clone https://github.com/harshitnagar22/Face_Attendance_System.git
+cd Face_Attendance_System
 
 ```
 
