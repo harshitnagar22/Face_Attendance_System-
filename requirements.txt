@@ -1,0 +1,8 @@
+opencv-python==4.11.0.86
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+dlib==19.24.1
+cvzone==1.6.1
+firebase-admin==6.8.0
+numpy==1.26.4
+pillow==11.2.1
